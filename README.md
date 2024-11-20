@@ -21,6 +21,7 @@ You can create julia set with the formula you want and save a 8k image of it.
 -  R : reset the scale to 1</li>
 -  1 through 5 : change color scheme</li>
 -  Space bar : Save 8k image in PNG format
+
 I've uploaded some pictures of the output of the program (**the pictures were resized due to their big size**)
 
 
